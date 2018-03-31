@@ -1,1 +1,2 @@
 ls -la
+mkdir sample
