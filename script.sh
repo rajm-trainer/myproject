@@ -1,3 +1,3 @@
 ls -la
-mkdir sample
-cd sample
+mkdir /etc/sample
+cd /etc/sample
